@@ -1,0 +1,54 @@
+PODS:
+  - Flutter (1.0.0)
+  - rate_my_app (2.0.0):
+    - Flutter
+  - shared_preferences_foundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - startapp_sdk (0.4.2):
+    - Flutter
+    - StartAppSDK (~> 4.10)
+  - StartAppSDK (4.10.0)
+  - url_launcher_ios (0.0.1):
+    - Flutter
+  - webview_flutter_wkwebview (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - rate_my_app (from `.symlinks/plugins/rate_my_app/ios`)
+  - shared_preferences_foundation (from `.symlinks/plugins/shared_preferences_foundation/darwin`)
+  - startapp_sdk (from `.symlinks/plugins/startapp_sdk/ios`)
+  - url_launcher_ios (from `.symlinks/plugins/url_launcher_ios/ios`)
+  - webview_flutter_wkwebview (from `.symlinks/plugins/webview_flutter_wkwebview/ios`)
+
+SPEC REPOS:
+  trunk:
+    - StartAppSDK
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  rate_my_app:
+    :path: ".symlinks/plugins/rate_my_app/ios"
+  shared_preferences_foundation:
+    :path: ".symlinks/plugins/shared_preferences_foundation/darwin"
+  startapp_sdk:
+    :path: ".symlinks/plugins/startapp_sdk/ios"
+  url_launcher_ios:
+    :path: ".symlinks/plugins/url_launcher_ios/ios"
+  webview_flutter_wkwebview:
+    :path: ".symlinks/plugins/webview_flutter_wkwebview/ios"
+
+SPEC CHECKSUMS:
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+  rate_my_app: 80fba94c4885cd31738231b7b1f51c1ad726f5c7
+  shared_preferences_foundation: 5b919d13b803cadd15ed2dc053125c68730e5126
+  startapp_sdk: 0adf0c04c81795fc0cee36cd4615b4ca20289340
+  StartAppSDK: cb462196df70ee3837b95a24118180491b06be2f
+  url_launcher_ios: 68d46cc9766d0c41dbdc884310529557e3cd7a86
+  webview_flutter_wkwebview: 2e2d318f21a5e036e2c3f26171342e95908bd60a
+
+PODFILE CHECKSUM: 70d9d25280d0dd177a5f637cdb0f0b0b12c6a189
+
+COCOAPODS: 1.13.0

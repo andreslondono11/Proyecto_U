@@ -1,0 +1,6 @@
+framework module startapp_sdk {
+  umbrella header "startapp_sdk-umbrella.h"
+
+  export *
+  module * { export * }
+}
